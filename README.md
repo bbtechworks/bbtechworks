@@ -2,7 +2,7 @@
 <h1 align="center">🚀 Byte Bandits</h1>
 
 <p align="center">
-  <img src="https://bytebandits.in/logo.png" alt="Byte Bandits Logo" width="120" />
+  <img src="https://bytebandits.in/images/BB.png" alt="Byte Bandits Logo" width="120" />
 </p>
 
 <p align="center">
